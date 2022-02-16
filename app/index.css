@@ -1,0 +1,36 @@
+main {
+  max-width: 1080px;
+  margin: 100px auto;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+
+.body {
+  max-width: 1080px;
+}
+
+.car_Card {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.year {
+  color: #22bf86;
+  margin-left: 0.5rem;
+  font-size: 12px;
+  position: absolute;
+  margin-bottom: 1rem;
+}
+
+.price {
+  margin-left: 0.7rem;
+  color: #22bf86;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.currency {
+  color: black;
+}
