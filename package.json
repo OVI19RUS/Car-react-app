@@ -9,6 +9,9 @@
       "@babel/preset-react"
     ]
   },
+  "engines": {
+    "node": "14.17.0"
+  },
   "scripts": {
     "start": "webpack-dev-server --open"
   },
